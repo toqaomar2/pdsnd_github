@@ -4,6 +4,9 @@
 ### Date Created
 *September 22, 2024*
 
+### Future Improvements
+This project could be expanded to include data visualization features and a web interface for easier use.
+
 ### Description
 This project analyzes bikeshare data from various cities to provide insights into usage patterns. It allows users to explore data by filtering by city, month, and day. The project uses Python and pandas for data manipulation and visualization.
 
